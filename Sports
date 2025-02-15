@@ -1,0 +1,10 @@
+#EXTINF:-1,NBA
+https://tx2.nexgen.bz:4000/NBA/index.m3u8
+#EXTINF:-1,NBA-2
+http://extraott.com:80/live/6772191932/1654508883/181377.m3u8
+#EXTINF:-1,ESPN
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1,ESPN2
+https://tx2.nexgen.bz:4000/ESPN2/index.m3u8
+#EXTINF:-1,TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
